@@ -44,16 +44,16 @@ CREATE TABLE `student`
 
 LOCK TABLES `student` WRITE;
 /*!40000 ALTER TABLE `student` DISABLE KEYS */;
-UNLOCK TABLES;
-INSERT INTO `student`
+INSERT INTO `
+student`
 VALUES
-  (1, 'test', 'test', 10),
-  (6388119, 'Kittipat', 'Arpanon', 20),
-  (630510214, 'Siroj', 'Pongthipan', 20),
-  (1630706578, 'Akarachai', 'Sukpraw', 20),
-  (1650202748, 'Thanaphat', 'Sae-Be', 20);
+  (1, 'Andrew', 'Black', 25),
+  (2, 'Alexandra', 'Brown', 25),
+  (3, 'Amanda', 'Davidson', 25),
+  (4, 'Benjamin', 'Duncan', 25),
+  (5, 'Christopher', 'Ellison', 25);
 /*!40000 ALTER TABLE `student` ENABLE KEYS */;
-
+UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
