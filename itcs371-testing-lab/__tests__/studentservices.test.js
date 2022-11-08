@@ -43,6 +43,12 @@ describe("Unit Test: get all student information function testing", () => {
             STU_AGE: 10, 
         },
         {
+            STU_ID: 6388019,
+            STU_FNAME: "Sorawanan", 
+            STU_LNAME: "Jeamjantarasakhon", 
+            STU_AGE: 21, 
+        },
+        {
             STU_ID: 6388119,
             STU_FNAME: "Kittipat", 
             STU_LNAME: "Arpanon", 
@@ -95,6 +101,12 @@ describe("Integation Test: Getting information of the first student in database 
             STU_FNAME: "test", 
             STU_LNAME: "test", 
             STU_AGE: 10, 
+        },
+        {
+            STU_ID: 6388019,
+            STU_FNAME: "Sorawanan", 
+            STU_LNAME: "Jeamjantarasakhon", 
+            STU_AGE: 21, 
         },
         {
             STU_ID: 6388119,

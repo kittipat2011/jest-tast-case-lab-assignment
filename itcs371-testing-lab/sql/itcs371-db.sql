@@ -48,6 +48,7 @@ UNLOCK TABLES;
 INSERT INTO `student`
 VALUES
   (1, 'test', 'test', 10),
+  (6388019, 'Sorawanan','Jeamjantarasakhon', 21),
   (6388119, 'Kittipat', 'Arpanon', 20),
   (630510214, 'Siroj', 'Pongthipan', 20),
   (1630706578, 'Akarachai', 'Sukpraw', 20),
