@@ -9,7 +9,7 @@
 8. open new terminal
 9 npm run startstudentservices
 10. open another new terminal
-11. npm run start clientservice
+11. npm run start clientserver
 12. open another new terminal
 13. npm test
 
